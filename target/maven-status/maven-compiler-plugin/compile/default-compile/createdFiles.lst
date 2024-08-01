@@ -1,0 +1,4 @@
+com\thesk\persistence\CustomPersistenceUnitInfo.class
+com\thesk\entity\Product.class
+com\thesk\jpapro\App.class
+com\thesk\main\MainProgram.class
